@@ -1,0 +1,5 @@
+config.ini
+DDNS_Project.code-workspace
+.vscode
+__pycache__
+test_functions.py
