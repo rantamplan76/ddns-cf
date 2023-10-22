@@ -1,4 +1,4 @@
-# DDNC-CF - DNS Dinamic updater for cloudfare
+# DDNS-CF - DNS Dinamic updater for cloudfare
 
 Python script for update a domain/subdomain IP on cloudfare DNS service
 
